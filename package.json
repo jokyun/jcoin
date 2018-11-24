@@ -1,0 +1,13 @@
+{
+  "name": "jcoin",
+  "version": "1.0.0",
+  "description": "Hello jcoin",
+  "main": "src/server.js",
+  "repository": "https://github.com/jokyun/jcoin",
+  "author": "jokyun",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
